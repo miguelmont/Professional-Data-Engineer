@@ -44,7 +44,7 @@ The data engineering lifecycle comprises stages that turn raw data ingredients i
 
 We begin the data engineering lifecycle by getting data from source systems and storing it. Next, we transform the data and then proceed to our central goal, serving data to analysts, data scientists, ML engineers, and others.
 
-![Screen Shot 2023-01-11 at 14.42.56.png](Data%20Engineering%20Fundamentals%2035e3b59b1042475ab5468f2fe124bf8f/Screen_Shot_2023-01-11_at_14.42.56.png)
+![Screen Shot 2023-01-11 at 14.42.56.png](https://github.com/miguelmont/Professional-Data-Engineer/blob/main/Data%20Engineering%20Fundamentals%20images/Screen_Shot_2023-01-11_at_14.42.56.png)
 
 ### Generation: Source Systems
 
