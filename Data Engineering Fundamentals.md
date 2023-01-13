@@ -94,7 +94,7 @@ Batch ingestion is simply a specialized and convenient way of processing this st
 
 Streaming ingestion allows us to provide data to downstream systems—whether other applications, databases, or analytics systems—in a continuous, real-time fashion means that the data is available to a downstream system a short time after it is produced (e.g., less than one second later). The latency required to qualify as real-time varies by domain and requirements. 
 
-![Screen Shot 2023-01-12 at 0.32.06.png](Data%20Engineering%20Fundamentals%2035e3b59b1042475ab5468f2fe124bf8f/Screen_Shot_2023-01-12_at_0.32.06.png)
+![Screen Shot 2023-01-12 at 0.32.06.png](https://github.com/miguelmont/Professional-Data-Engineer/blob/main/Data%20Engineering%20Fundamentals%20images/Screen_Shot_2023-01-11_at_14.42.56.png)
 
 Key considerations for batch versus stream ingestion
 
