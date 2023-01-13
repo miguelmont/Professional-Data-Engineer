@@ -160,7 +160,7 @@ Reverse ETL takes processed data from the output side of the data engineering li
 
 ## Major Undercurrents Across the Data Engineering Lifecycle
 
-![Screen Shot 2023-01-11 at 14.44.05.png](Data%20Engineering%20Fundamentals%2035e3b59b1042475ab5468f2fe124bf8f/Screen_Shot_2023-01-11_at_14.44.05.png)
+![Screen Shot 2023-01-11 at 14.44.05.png](https://github.com/miguelmont/Professional-Data-Engineer/blob/main/Data%20Engineering%20Fundamentals%20images/Screen_Shot_2023-01-12_at_0.32.06.png)
 
 Data Modeling: 
 
