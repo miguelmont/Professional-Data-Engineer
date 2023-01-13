@@ -5,7 +5,7 @@ A Data Engineer should be able to design, build, operationalize, secure and moni
 
 [Questions](https://www.notion.so/Questions-ab1f016e81f94b4da05c395dac78b46b)
 
-[Data Engineering Fundamentals](https://www.notion.so/Data-Engineering-Fundamentals-35e3b59b1042475ab5468f2fe124bf8f)
+[Data Engineering Fundamentals](https://github.com/miguelmont/Professional-Data-Engineer/blob/main/Data%20Engineering%20Fundamentals.md)
 
 [Storage](https://www.notion.so/Storage-f84b2a97405647259e44c32775a86706)
 
