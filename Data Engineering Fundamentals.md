@@ -38,7 +38,7 @@ Business Responsabilities
 - Control costs
 - Learn continuously
 
-## What is Data Enngineering Lifecycle?
+## What is Data Engineering Lifecycle?
 
 The data engineering lifecycle comprises stages that turn raw data ingredients into a useful end product, ready for consumption by analysts, data scientists, ML engineers, and others.
 
